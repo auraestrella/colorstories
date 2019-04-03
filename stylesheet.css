@@ -1,0 +1,225 @@
+html {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  min-height: 100%;
+  text-align:center;
+  margin:0px;
+  padding:0px;
+  font-family: 'Merriweather', serif;
+}
+
+h3{
+  font-family: 'Amaranth', sans-serif;
+}
+
+p{
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.nav{
+  background-color: #8541f4;
+}
+
+.nav ul{
+  font-family: 'Amaranth', sans-serif;
+  list-style-type: none;
+  display:flex;
+  justify-content:space-around;
+  padding: 0px;
+  margin-top: 4px;
+  margin-bottom: 0px;
+  font-size: 24px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav a:hover{
+  color: #2de23b;
+  text-decoration: underline;
+}
+
+.banner {
+  background-image: url(images/door.jpg);
+  padding: 4%;
+  margin: 0%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 42px;
+}
+
+.banner h1{
+  font-family: 'Amaranth', sans-serif;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+.banner h2{
+  font-family: 'Quattrocento Sans', sans-serif;
+  padding: 0px;
+  margin: 0px;
+  font-size: 18px;
+}
+.intro{
+  display: flex;
+  padding:0px;
+  margin:5%;
+}
+
+.right .left{
+  flex: 1;
+  justify-content: space-around;
+}
+
+.right {
+  padding: 10%;
+  margin: 0px;
+  background-image: url(images/highlight.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 28px;
+  color: #ffffff;
+}
+
+.right a{
+  color: #ffffff;
+  background-color: #8541f4;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+.right a:hover{
+  color: #ffffff;
+  background-color: #f442c5;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+.left {
+  padding: 10%;
+  background-image: url(images/redgirl.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 28px;
+  color: #ffffff;
+}
+
+.right a{
+  color: #ffffff;
+  background-color: #41aff4;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+.right a:hover{
+  color: #ffffff;
+  background-color: #f442c5;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+.left a{
+  color: #ffffff;
+  background-color: #2e3d23;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+.left a:hover{
+  color: #ffffff;
+  background-color: #c60000;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+.newsletter {
+  margin:5%;
+  padding:0%;
+}
+
+.others{
+  margin:3%;
+  padding:0%;
+  justify-content: center;
+}
+
+.brown a{
+  color: #ffffff;
+  background-color: #802000;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+.brown a:hover{
+  color: #ffffff;
+  background-color: #ffc34d;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+
+.pink a{
+  color: #ffffff;
+  background-color: #f442c5;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+.pink a:hover{
+  color: #f442c5;
+  background-color: #ffccee;
+  font-size: 18px;
+  padding: 6px 10px;    
+}
+
+.footer img{
+  width:25px;
+  margin:0%;
+}
+
+.footer{
+  padding: 0%;
+  position: absolute;
+  margin-bottom:-50%;
+  text-align: center;
+  width: 100%;
+}
+ 
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px;
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px;
+}
+
+input[type=submit] {
+  background-color: #f442c5;
+  color: #ffffff;
+  padding: 12px 12px;
+}
+
+input[type=submit]:hover {
+  background-color: #8541f4;
+}
+
+.message{
+  padding: 0px;
+  margin: 5%;
+}
+.contact {
+  background-color: pink;
+  padding: 35px;
+  margin: 5%;
+}
