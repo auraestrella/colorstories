@@ -165,7 +165,7 @@ p {
   padding: 6px 10px;    
 }
 
-.newsletter {
+.newsletter, .middle{
   margin:5%;
   padding:0%;
 }
