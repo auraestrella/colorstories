@@ -258,6 +258,12 @@ input[type=submit]:hover {
   padding: 6px 10px;    
 }
 
+.bottom {
+  margin: 0 auto;
+  width: 500px;
+  padding-bottom: 5%;
+  text-align: center;
+}
 
 .bottom ul{
   display: inline-block;
@@ -267,12 +273,6 @@ input[type=submit]:hover {
 
 .bottom li{
   list-style-type:none;
-}
-
-.bottom {
-  margin: 0 auto;
-  padding-bottom: 5%;
-  text-align: center;
 }
 
 .aboutbrown{
