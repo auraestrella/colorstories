@@ -258,11 +258,10 @@ input[type=submit]:hover {
 }
 
 .bottom {
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 100%;
   position:absolute;
   left: 50%;
-  top: 50%; 
   margin-left: -150px;
   margin-top: auto;
   font-family: 'Quattrocento Sans', sans-serif;
@@ -270,19 +269,23 @@ input[type=submit]:hover {
 }
 
 .bottom ul{
-  font-family: 'Quattrocento Sans', sans-serif;
-  margin: 10px 0;
-  padding: 2px;
+  margin: 0px 0 10px 0;
+  padding: 5px;
 }
 
 .bottom li{
-  list-style-type:none;
+  list-style-type: none;
+  padding: 5px;
+  
 }
 
 .aboutbrown{
+  margin: 2%;
   border: 1px solid #583711;
+  
 }
 
 .aboutpink{
+  margin: 2%;
   border: 1px solid #f442c5;
 }
