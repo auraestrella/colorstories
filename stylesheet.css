@@ -257,12 +257,16 @@ input[type=submit]:hover {
   padding: 6px 10px;    
 }
 
+.bottom{
+  width:300px;
+}
+
 .aboutbrown, .aboutpink {
   display: inline-block;
   padding: 0%;
   margin: auto;
   text-align: center;
-}
+ }
 
 .bottom ul{
   font-family: 'Quattrocento Sans', sans-serif;
