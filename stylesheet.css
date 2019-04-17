@@ -221,8 +221,6 @@ input[type=submit]:hover {
 .parent{
   display: flex;
   align-items: flex-start; 
-  width: inherit;
-  height: inherit;
 }
 
 .parent h1 {
@@ -263,6 +261,7 @@ input[type=submit]:hover {
 .bottom{
   margin: 5%;
   padding 5%;
+  max-width: 500px; 
 }
 
 .bottom li{
