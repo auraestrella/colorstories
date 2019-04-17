@@ -269,6 +269,12 @@ input[type=submit]:hover {
   list-style-type:none;
 }
 
+.bottom {
+  margin: 0 auto;
+  padding-bottom: 5%;
+  text-align: center;
+}
+
 .aboutbrown{
   border: 1px solid #583711;
 }
