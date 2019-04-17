@@ -259,9 +259,12 @@ input[type=submit]:hover {
 }
 
 .bottom{
+  display : flex;
+  justify-content: center;
   min-height: 100%;
   text-align:center;
-   width: 800px; 
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .bottom li{
