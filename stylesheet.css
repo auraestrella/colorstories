@@ -260,21 +260,28 @@ input[type=submit]:hover {
 
 .bottom {
   margin: 0 auto;
-  width: 50%;
+  width: 500px;
   min-height: 100%;
-  text-align:center;
+  padding: 10%;
+  text-align: center;
+}
+
+.bottom ul{
+  display: inline-block;
+  margin: 10px 0;
+  padding: 2px;
 }
 
 .bottom li{
-  list-style-type: none;
+  list-style-type:none;
 }
 
 .aboutbrown{
   border: 1px solid #583711;
-  justify-content: center;
+  text-align:center;
 }
 
 .aboutpink{
   border: 1px solid #f442c5;
-  justify-content: center;
+  text-align:center;
 }
