@@ -258,8 +258,9 @@ input[type=submit]:hover {
   padding: 6px 10px;    
 }
 
-.bottom{
+.bottom {
   display: flex;
+  justify-content: center;
   min-height: 100%;
   text-align:center;
   margin-left:auto;
