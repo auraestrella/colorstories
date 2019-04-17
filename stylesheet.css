@@ -259,7 +259,7 @@ input[type=submit]:hover {
 }
 
 .bottom {
-  margin-left: 0 auto;
+  margin: 0 auto;
   width: 50%;
   min-height: 100%;
   text-align:center;
