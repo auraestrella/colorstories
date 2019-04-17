@@ -259,8 +259,7 @@ input[type=submit]:hover {
 }
 
 .bottom{
-  display : flex;
-  justify-content: center;
+  display: flex;
   min-height: 100%;
   text-align:center;
   margin-left:auto;
@@ -273,8 +272,10 @@ input[type=submit]:hover {
 
 .aboutbrown{
   border: 1px solid #583711;
+  justify-content: center;
 }
 
 .aboutpink{
   border: 1px solid #f442c5;
+  justify-content: center;
 }
