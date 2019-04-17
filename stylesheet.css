@@ -51,7 +51,7 @@ p {
 
 .banner {
   background-image: url(images/door.jpg);
-  padding: 0%;
+  padding: 4%;
   margin: 0%;
   background-position: center;
   background-repeat: no-repeat;
@@ -85,7 +85,7 @@ p {
 }
 
 .right {
-  padding: 5%;
+  padding: 10%;
   margin: 0px;
   background-image: url(images/highlight.jpg);
   background-position: center;
@@ -110,7 +110,7 @@ p {
 }
 
 .left {
-  padding: 5%;
+  padding: 10%;
   background-image: url(images/redgirl.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -137,6 +137,7 @@ p {
   display: inline-block;
 }
 
+
 .brown a{
   color: #ffffff;
   background-color: #802000;
@@ -150,6 +151,7 @@ p {
   font-size: 18px;
   padding: 6px 10px;    
 }
+
 
 .pink a{
   color: #ffffff;
@@ -165,7 +167,7 @@ p {
   padding: 6px 10px;    
 }
 
-.newsletter, .middle{
+.newsletter {
   margin:5%;
   padding:0%;
 }
@@ -180,6 +182,7 @@ p {
   position: absolute;
   margin-bottom:-50%;
   text-align: center;
+  width: 100%;
 }
 
 input[type=text], select, textarea {
