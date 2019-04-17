@@ -139,7 +139,6 @@ p {
   margin: 0px
 }
 
-
 .brown a{
   color: #ffffff;
   background-color: #802000;
@@ -260,13 +259,13 @@ input[type=submit]:hover {
 
 .bottom {
   margin:0;
-  width: 500px;
+  width: 400px;
   padding-bottom: 5%;
   text-align: center;
 }
 
 .bottom ul{
-  display: inline-block;
+  font-family: 'Quattrocento Sans', sans-serif;
   margin: 10px 0;
   padding: 2px;
 }
