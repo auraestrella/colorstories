@@ -258,13 +258,6 @@ input[type=submit]:hover {
   padding: 6px 10px;    
 }
 
-.bottom {
-  margin: 0 auto;
-  width: 500px;
-  min-height: 100%;
-  padding-bottom: 5%;
-  text-align: center;
-}
 
 .bottom ul{
   display: inline-block;
