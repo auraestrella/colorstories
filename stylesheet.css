@@ -191,7 +191,8 @@ p {
 
 .rightfeature, .leftfeature {
   flex: 1;
-  margin: 5%;
+  padding: 10%;
+  margin: 0px;
  }
 
 .aboutblue{
@@ -221,6 +222,8 @@ p {
 
 .bottom{
    display: inline-block;
+   padding: 10%;
+   margin: 0px
 }
 
 .bottom li{
