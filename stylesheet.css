@@ -135,6 +135,8 @@ p {
 
 .brown, .pink {
   display: inline-block;
+  margin:5%;
+  width:50%;
 }
 
 .brown a{
