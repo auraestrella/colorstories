@@ -261,8 +261,7 @@ input[type=submit]:hover {
 .bottom{
   margin: auto;
   padding: 10px;
-  width: 300px;
-  height: 300px;
+  width: 500px;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
