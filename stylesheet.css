@@ -261,8 +261,7 @@ input[type=submit]:hover {
 .bottom{
   min-height: 100%;
   text-align:center;
-  margin: auto;
-  width: 800px; 
+   width: 800px; 
 }
 
 .bottom li{
