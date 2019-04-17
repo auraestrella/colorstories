@@ -136,7 +136,7 @@ p {
 .brown, .pink {
   display: inline-block;
   padding: 0%;
-  margin: 0px
+  margin: 0px;
 }
 
 .brown a{
@@ -179,7 +179,7 @@ p {
 }
 
 .footer{
-  padding: 0%;
+  padding: 2%;
   position: absolute;
   margin-bottom:-50%;
   text-align: center;
@@ -258,8 +258,9 @@ input[type=submit]:hover {
 }
 
 .bottom {
-  margin: 0%
-  padding-bottom: 5%;
+  display: inline-block;
+  padding: 0%;
+  margin: 0px;
   text-align: center;
 }
 
