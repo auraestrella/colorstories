@@ -258,7 +258,6 @@ input[type=submit]:hover {
 }
 
 .aboutbrown, .aboutpink {
-  width:300px;
   display: inline-block;
   padding: 0%;
   margin: auto;
