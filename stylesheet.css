@@ -260,10 +260,13 @@ input[type=submit]:hover {
 
 .bottom{
   margin: auto;
-  width: 50%;
-  padding 5%;
-  max-width: 500px; 
   padding: 10px;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .bottom li{
