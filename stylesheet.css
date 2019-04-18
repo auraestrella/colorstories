@@ -264,10 +264,6 @@ input[type=submit]:hover {
 
 .bottom ul{
   margin: 0px 0 10px 0;
-}
-
-.bottom li{
-  font-family: 'Amaranth', sans-serif;
   list-style-type: none;
   font-family: 'Amaranth', sans-serif;
 }
