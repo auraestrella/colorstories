@@ -165,12 +165,12 @@ p {
 }
 
 .newsletter {
-  margin:2% 30%;
+  position: inherit;
+  margin: 100px 30% 2% 30%;
   padding:0%;
   border: 1px solid #8541f4;
   background-color: #8541f4;
 }
-
 
 .footer img{
   width:25px;
@@ -182,7 +182,6 @@ p {
   margin: 0 auto;
   margin-bottom:-50%;
   text-align: center;
-  
 }
 
 input[type=text], select, textarea {
@@ -256,23 +255,18 @@ input[type=submit]:hover {
   padding: 6px 10px;    
 }
 
-.bottom {
-  margin: 0 auto;
-  width: 400px;
-  height: 400px
-}
-
 .bottom ul{
-  display: inline-block;
+  list-style-type:none;
   margin: 10px 0;
-  padding: 2px;
+  padding: 5px;
   font-family: 'Amaranth', sans-serif;
 }
-}
 
-.bottom li{
-  list-style-type:none;
-  font-family: 'Quattrocento Sans', sans-serif;
+.bottom {
+  position: inherit;
+  margin: 0 auto;
+  padding:0%;
+  width: 500px;
 }
 
 .aboutbrown{
@@ -283,4 +277,10 @@ input[type=submit]:hover {
 .aboutpink{
   margin: 2%;
   border: 1px solid #f442c5;
+}
+
+.bottom li{
+  padding: 0%;
+  list-style-type:none;
+  font-family: 'Quattrocento Sans', sans-serif;
 }
