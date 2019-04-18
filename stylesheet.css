@@ -264,8 +264,13 @@ input[type=submit]:hover {
 
 .bottom ul{
   margin: 0px 0 10px 0;
-  list-style-type: none;
   font-family: 'Amaranth', sans-serif;
+}
+
+.bottom li{
+  margin: 0px 0 10px 0;
+  list-style-type: none;
+  font-family: 'Quattrocento Sans', sans-serif;
 }
 
 .aboutbrown{
