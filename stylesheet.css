@@ -28,13 +28,13 @@ p {
   display:flex;
   justify-content:space-around;
   padding: 0px;
-  margin-top: 4px;
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 
 .nav li{
   font-family: 'Quattrocento Sans', sans-serif;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .nav a {
