@@ -165,11 +165,12 @@ p {
 }
 
 .newsletter {
-  margin:5%;
+  margin:2% 30%;
   padding:0%;
   border: 1px solid #8541f4;
   background-color: #8541f4;
 }
+
 
 .footer img{
   width:25px;
